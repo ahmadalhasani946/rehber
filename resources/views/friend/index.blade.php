@@ -28,7 +28,7 @@
         </tbody>
     </table>
 
-    <div class="modal modal-danger" id="DeleteModal" style="margin-top:300px;" name="DeleteModal" tabindex="-1" role="dialog">
+    <div class="modal modal-danger" id="DeleteModal" style="margin-top:200px;" name="DeleteModal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-body" style="text-align:center;">
